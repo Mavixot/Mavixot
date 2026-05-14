@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Mavix 👋
 
-<!--
-**Mavixot/Mavixot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C++ Developer & Web Designer. I build and develope software & websites.
 
-Here are some ideas to get you started:
+-   👀 I'm currently working at [giftGRÜN](https://www.giftgruen.com/) and run [Cephie](https://snap.cephie.app) on the side.
+-   🌱 I'm currently learning Go and C
+-   💞️ I love collaborating on open source projects!
+-   🤝 Let me know if you want to start a project together!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Check out my website: *[devbanane.com](https://devbanane.com)*
+
+<div align="left">
+  <a href="https://widgets.1ceit.com/Mavixot/spotify?open"><img src="https://widgets.1ceit.com/Mavixot/spotify?v=1" width="33%" alt="Spotify Now Playing"/></a>
+  <img src="https://widgets.1ceit.com/dev-banane/steam?v=1" width="49%" alt="Now Gaming on Steam"/>
+</div>
+
+---
+
+### Things I've built
