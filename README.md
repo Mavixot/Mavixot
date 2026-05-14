@@ -10,7 +10,7 @@ C++ Developer & Web Designer. I build and develope software & websites.
 ### Check out my website: *[devbanane.com](https://devbanane.com)*
 
 <div align="left">
-  <a href="https://widgets.1ceit.com/Mavixot/spotify?open"><img src="https://widgets.1ceit.com/Mavixot/spotify?v=1" width="33%" alt="Spotify Now Playing"/></a>
+  <img src="https://widgets.1ceit.com/Mavixot/spotify?v=1" width="49%" alt="Now Playing on Spotify"/>
   <img src="https://widgets.1ceit.com/dev-banane/steam?v=1" width="49%" alt="Now Gaming on Steam"/>
 </div>
 
