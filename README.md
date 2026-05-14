@@ -11,3 +11,4 @@ C++ Developer & Web Designer. I build and develope software & websites.
   <img src="https://widgets.1ceit.com/Mavixot/spotify?v=1" width="49%" alt="Now Playing on Spotify"/>
   <img src="https://widgets.1ceit.com/Mavixot/steam?v=1" width="49%" alt="Now Gaming on Steam"/>
 </div>
+![Profile Views](https://widgets.1ceit.com/Mavixot/views?v=1)
