@@ -1,6 +1,6 @@
-## Hi there, I'm Mavix 👋
+## Mavix 👋
 
-C++ Developer & Web Designer. I build and develope software & websites.
+C++ Developer & Fullstack Wev Developer. I build and develope software & websites.
 
 ### Check out my website: *[devmavix.com](https://devmavix.com)*
 
